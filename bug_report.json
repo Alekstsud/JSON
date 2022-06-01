@@ -1,0 +1,12 @@
+{
+	"ID"
+        "Version"
+	"Summary"
+	"Req id"
+	"Steps"
+	"Actual result"
+	"Expected result"
+	"Severity"
+	"Priority"
+        "Attachments"
+}
