@@ -1,14 +1,14 @@
 {
-	"ID": 1.0,
-        "Version": 1.2.3,
-	"Summary": "Request",
-	"Req id": 3.2.1,
-	"Steps": "Steps",
-	"Actual result": 405,
-	"Expected result": "200 OK"
-	"Severity": "Highest",
-	"Priority": "Critical",
-        "Attachments": "Some screen"
+	"id": 1.0,
+        "version": 1.2.0,
+	"summary": "Request",
+	"reqId": 3.2.0,
+	"steps": "Steps",
+	"actualResult": 405,
+	"expectedResult": "200 OK"
+	"severity": "Highest",
+	"priority": "Critical",
+        "attachments": "Some screen"
 }
 
 
