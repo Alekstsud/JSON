@@ -1,7 +1,7 @@
 {
- "Favorite movie": "Star Wars",
- "Favorite series": "The Big Bang Theory",
- "Favorite food": "Lasagna",
- "Favorite time of year": "Summer",
- "Country I'd like to visit": "China"
+ "favoriteMovie": "Star Wars",
+ "favoriteSeries": "The Big Bang Theory",
+ "favoriteFood": "Lasagna",
+ "favoriteTimeOfYear": "Summer",
+ "CountryI'dLikeTovisit": "China"
 }
