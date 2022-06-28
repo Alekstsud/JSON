@@ -1,8 +1,8 @@
 {
-	"name": "Tsudzila Aliaksandr",
+       "name": "Tsudzila Aliaksandr",
  "age": 32,
- "pets": 1,
- "future desired salary": "1000"
+ "pets": ['1', 'wild cat'],
+ "futureDesiredSalary": 1000
 }
 
 
