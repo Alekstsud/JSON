@@ -1,14 +1,14 @@
 {
-	"ID"
-        "Version"
-	"Summary"
-	"Req id"
-	"Steps"
-	"Actual result"
-	"Expected result"
-	"Severity"
-	"Priority"
-        "Attachments"
+	"ID": 1.0,
+        "Version": 1.2.3,
+	"Summary": "Request",
+	"Req id": 3.2.1,
+	"Steps": "Steps",
+	"Actual result": 405,
+	"Expected result": "200 OK"
+	"Severity": "Highest",
+	"Priority": "Critical",
+        "Attachments": "Some screen"
 }
 
 
